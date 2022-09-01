@@ -1,0 +1,16 @@
+@media screen and (max-width: 480px) {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos {
+        width: auto;
+    }
+ 
+    .produtos {
+        padding: 20px 0;
+        text-align: center;
+    }
+ 
+    .produtos li {
+            display: inline-block;
+            width: 90%;
+            margin: 10px auto;
+    }
+ }
